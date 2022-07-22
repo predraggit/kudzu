@@ -1,0 +1,29 @@
+kudzu package
+=============
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   kudzu.bin
+
+Submodules
+----------
+
+kudzu.example module
+--------------------
+
+.. automodule:: kudzu.example
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: kudzu
+   :members:
+   :undoc-members:
+   :show-inheritance:
